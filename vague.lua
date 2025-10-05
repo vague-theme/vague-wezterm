@@ -1,7 +1,5 @@
---[[
-Vague for Wezterm
-------------------------------------
---]]
+-- Vague for Wezterm
+-- Upstream: https://github.com/vague-theme/vague-wezterm/blob/main/vague.lua
 
 local M = {}
 
