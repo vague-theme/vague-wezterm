@@ -20,8 +20,3 @@
      window_frame = theme.window_frame(), -- optional, only if using fancy tab bar
    }
    ```
-
-## Thanks to contributors
-
-- [lukeburton00](https://github.com/lukeburton00)
-- [skewb1k](https://github.com/skewb1k)
